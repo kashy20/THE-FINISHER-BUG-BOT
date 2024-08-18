@@ -1,12 +1,12 @@
 {
-    "name": "Venom-2",
+    "name": "THE-FINISHER-BUG-BOT",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
-        "database": "database",
+        "databasye": "database",
         "database": "database",
         "session": "session",
         "media": "media"

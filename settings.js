@@ -1,29 +1,29 @@
-
+y
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.ownernomer = "254112735877"
+global.ownername = "𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪"
+global.ytname = "𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪"
+global.socialm = "GitHub: kashy20"
+global.location = "Africa, Kenya, Nairobi"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.ownernumber = '254112835877,254112735877,254112735877'  //creator number
+global.ownername = '𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪' //owner name
+global.botname = 'THE-FINISHER-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = '𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪\n\nContact: +254112735877'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "𓆩 𝗘𝗠𝗠𝗞𝗔𝗦𝗛𓆪."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://chat.whatsapp.com/DBaMGQYFDY8HulmgQOUTaI'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
